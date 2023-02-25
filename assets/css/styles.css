@@ -428,21 +428,21 @@ main {
   background-image: linear-gradient(to right bottom,
       black,
       var(--color-secondary-dark)),
-    url(../media/beach-small.jpg);
+    url(../media/pnl-small.jpg);
 }
 
 .card__picture--2 {
   background-image: linear-gradient(to right bottom,
       black,
       var(--color-primary-dark)),
-    url(../media/nature-small.jpg);
+    url(../media/hipnose-small.jpg);
 }
 
 .card__picture--3 {
   background-image: linear-gradient(to right bottom,
       black,
       var(--color-tertiary-dark)),
-    url(../media/ice-small.jpg);
+    url(../media/neuro-small.jpg);
 }
 
 .card__heading {
